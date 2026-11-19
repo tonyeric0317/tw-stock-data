@@ -31,10 +31,18 @@ def rss(url, source):
         title = clean(re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", (re.search(r"<title>(.*?)</title>", item, re.S) or [None, ""])[1], flags=re.S))
         link = clean(re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", (re.search(r"<link>(.*?)</link>", item, re.S) or [None, ""])[1], flags=re.S))
         pub = re.search(r"<pubDate>(.*?)</pubDate>", item, re.S)
+        t = None
         try:
             t = parsedate_to_datetime(clean(pub.group(1))).astimezone(TW) if pub else None
         except Exception:
-            t = None
+            pass
+        if t is None:
+            iso = re.search(r"(20\d\d-\d\d-\d\d)[T ](\d\d:\d\d(?::\d\d)?)([+-]\d\d:?\d\d|Z)?", item)
+            if iso:
+                tz = (iso.group(3) or "+08:00").replace("Z", "+00:00")
+                if len(tz) == 5:
+                    tz = tz[:3] + ":" + tz[3:]
+                t = dt.datetime.fromisoformat(f"{iso.group(1)}T{iso.group(2)}{tz}").astimezone(TW)
         if title and link:
             out.append({"source": source, "title": title, "url": link.split("?")[0], "time": t.isoformat() if t else None})
     return out
