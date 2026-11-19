@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: data-writer
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -34,4 +38,5 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add data
           git commit -m "data $(TZ=Asia/Taipei date +%Y%m%d)" || echo "沒有變更"
+          git pull --rebase -q || true
           git push
