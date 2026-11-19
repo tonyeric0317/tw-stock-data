@@ -29,6 +29,10 @@ jobs:
           python make_over10.py "$D"
           # 只保留最近 60 天的每日檔案（latest_ 開頭的固定檔不會刪）
           python -c "import datetime as d,glob,os,re;c=(d.date.today()-d.timedelta(days=60)).strftime('%Y%m%d');[os.remove(f) for f in glob.glob('data/*_2*.*') if re.search(r'_(\d{8})\.',f) and re.search(r'_(\d{8})\.',f).group(1)<c]"
+          # 資料日期跟查詢日期不同（還沒收盤、假日、官方未更新）→ 不覆蓋最新檔，並刪掉這次的檔案
+          if grep -q "資料日期與查詢日期不同" "data/summary_$D.txt"; then
+            echo "資料日期不符，不更新"; rm -f data/*_$D.*; exit 0
+          fi
           # 固定檔名的最新版，給排程用固定網址讀取
           cp "data/summary_$D.txt" data/latest_summary.txt
           cp "data/over10_$D.csv" data/latest_over10.csv

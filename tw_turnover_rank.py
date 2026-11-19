@@ -122,7 +122,7 @@ def twse_by_date(d):
                 if row:
                     out.append(row)
             if out:
-                return out, f"{d:%Y%m%d}"
+                return out, tpex_actual_date(j, d)
     raise RuntimeError("證交所當天沒有收盤行情（可能還沒更新或休市）")
 
 
@@ -140,6 +140,17 @@ def twse_openapi():
 
 
 # ---------- 上櫃 ----------
+def tpex_actual_date(j, d):
+    """讀回櫃買中心回傳的實際資料日期；沒有日期欄位才用查詢日期"""
+    raw = str(j.get("date") or j.get("reportDate") or "").strip()
+    m = re.match(r"(\d{2,4})[/-]?(\d{2})[/-]?(\d{2})$", raw)
+    if not m:
+        return f"{d:%Y%m%d}"
+    y = int(m.group(1))
+    y = y + 1911 if y < 1911 else y
+    return f"{y}{m.group(2)}{m.group(3)}"
+
+
 def tpex_by_date(d):
     roc = f"{d.year - 1911}/{d:%m/%d}"
     urls = [
@@ -177,7 +188,7 @@ def tpex_by_date(d):
                 if row:
                     out.append(row)
             if out:
-                return out, f"{d:%Y%m%d}"
+                return out, tpex_actual_date(j, d)
     raise RuntimeError(f"櫃買中心當天沒有收盤行情（可能還沒更新或休市）{last_err or ''}")
 
 
