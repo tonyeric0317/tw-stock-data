@@ -23,6 +23,11 @@ jobs:
           mkdir -p data
           python tw_turnover_rank.py --date "$D" --csv "data/turnover_$D.csv" | tee "data/summary_$D.txt"
           python make_over10.py "$D"
+          # 固定檔名的最新版，給排程用固定網址讀取
+          cp "data/summary_$D.txt" data/latest_summary.txt
+          cp "data/over10_$D.csv" data/latest_over10.csv
+          cp "data/top100_$D.csv" data/latest_top100.csv
+          cp "data/turnover_$D.csv" data/latest_turnover.csv
       - name: 存回 GitHub
         run: |
           git config user.name "github-actions"
