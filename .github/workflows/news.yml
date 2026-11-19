@@ -3,6 +3,7 @@ name: news-collect
 on:
   schedule:
     - cron: "7,37 * * * *"    # 每 30 分鐘累積一次新聞
+    - cron: "52 22 * * *"     # 台灣 06:52，晨報前最後一次
   workflow_dispatch:
 
 permissions:
