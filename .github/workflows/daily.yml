@@ -1,0 +1,32 @@
+name: daily-turnover
+
+on:
+  schedule:
+    - cron: "40 7 * * 1-5"   # 台灣 15:40
+    - cron: "40 9 * * 1-5"   # 台灣 17:40（補跑，覆蓋成最終資料）
+  workflow_dispatch:          # 可在 Actions 頁面手動執行
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 抓官方收盤資料
+        run: |
+          D=$(TZ=Asia/Taipei date +%Y%m%d)
+          mkdir -p data
+          python tw_turnover_rank.py --date "$D" --csv "data/turnover_$D.csv" | tee "data/summary_$D.txt"
+          python make_over10.py "$D"
+      - name: 存回 GitHub
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add data
+          git commit -m "data $(TZ=Asia/Taipei date +%Y%m%d)" || echo "沒有變更"
+          git push
