@@ -1,10 +1,11 @@
-name: news-collect
+name: tick
 
+# 主要靠外部排程（cron-job.org）每 15 分鐘呼叫 workflow_dispatch；
+# GitHub 內建 schedule 常延遲或被略過，只當備援。
 on:
-  schedule:
-    - cron: "7,37 * * * *"    # 每 30 分鐘累積一次新聞
-    - cron: "52 22 * * *"     # 台灣 06:52，晨報前最後一次
   workflow_dispatch:
+  schedule:
+    - cron: "11,41 * * * *"
 
 permissions:
   contents: write
@@ -21,13 +22,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: 收集新聞
-        run: python news.py
+      - run: python tick.py
       - name: 存回 GitHub
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add data
-          git commit -q -m "news $(TZ=Asia/Taipei date +%m%d-%H%M)" || exit 0
+          git add -A data
+          git commit -q -m "tick $(TZ=Asia/Taipei date +%m%d-%H%M)" || exit 0
           git pull --rebase -q
           git push -q
