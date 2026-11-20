@@ -4,17 +4,16 @@
 資料來源：TradingView 公開篩選器（收盤後即為當日收盤資料；成交額＝Value.Traded，美元）
 用法：python us_turnover.py --date 20261120 --csv data/us_top200_20261120.csv
 """
-import argparse, csv, json, ssl, sys, urllib.error, urllib.request
+import argparse, csv, json, re, ssl, sys, urllib.error, urllib.request
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-COLS = ["name", "description", "close", "change", "volume", "Value.Traded", "market_cap_basic", "sector", "industry", "type", "subtype"]
+COLS = ["name", "description", "close", "change", "volume", "Value.Traded", "market_cap_basic", "sector", "industry"]
 
 
 def fetch(n):
     body = json.dumps({
         "filter": [{"left": "type", "operation": "equal", "right": "stock"},
-                   {"left": "is_primary", "operation": "equal", "right": True},
-                   {"left": "subtype", "operation": "nin", "right": ["preferred", "warrant", "unit", "right"]}],
+                   {"left": "is_primary", "operation": "equal", "right": True}],
         "markets": ["america"], "columns": COLS,
         "sort": {"sortBy": "Value.Traded", "sortOrder": "desc"}, "range": [0, n]}).encode()
     req = urllib.request.Request("https://scanner.tradingview.com/america/scan", data=body,
@@ -41,8 +40,11 @@ def main():
     if not rows:
         sys.exit("TradingView 沒有回傳資料")
     out = []
-    for i, r in enumerate(rows, 1):
+    for r in rows:
         d = dict(zip(COLS, r["d"]))
+        if re.search(r"Preferred|Pfd|Warrant|\bUnits?\b|\bRights?\b|Depositary Shares? Representing", d["description"] or "", re.I):
+            continue
+        i = len(out) + 1
         out.append({"rank": i, "symbol": d["name"], "name": d["description"] or "", "price": d["close"],
                     "pct": d["change"], "volume": d["volume"] or 0, "turnover": d["Value.Traded"] or 0,
                     "mcap": d["market_cap_basic"], "industry": d["industry"] or d["sector"] or ""})
