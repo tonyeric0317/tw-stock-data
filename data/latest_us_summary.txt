@@ -1,8 +1,7 @@
-美股交易日：2026-11-19（美東）
-資料來源：Nasdaq 股票篩選器（NASDAQ／NYSE／AMEX 個股，不含 ETF），共 6007 檔
-核對用：成交額前 5 名 NVDA 150.96（-2.90%）、MU 705.27（-1.00%）、AMD 530.14（+5.31%）、SPCX 143.5（+1.27%）、AAPL 352.45（+0.15%）
-成交額第 30 名門檻：23.38 億美元
+美股交易日：2026-11-20（美東）
+資料來源：Nasdaq 股票篩選器（NASDAQ／NYSE／AMEX 個股，不含 ETF），共 6008 檔
+核對用：成交額前 5 名 ANT 97.17（+17.07%）、NVDA 145.98（-3.30%）、AMD 489.19（-7.72%）、MU 690.44（-2.10%）、SPCX 138.43（-3.53%）
+成交額第 30 名門檻：27.93 億美元
 
 === 成交額前 30 名中漲幅 ≥ 8% 的個股 ===
-#15 PANW Palo Alto Networks Inc. Common Stock  收 339.92  +9.90%  成交額 58.58 億美元  產業 Computer peripheral equipment
-#27 TJX TJX Companies Inc. (The) Common Stock  收 140.29  +8.04%  成交額 25.32 億美元  產業 Clothing/Shoe/Accessory Stores
+# 1 ANT Anthropic PBC Class A Common Stock  收 97.17  +17.07%  成交額 833.05 億美元  產業 Computer Software: Prepackaged Software
