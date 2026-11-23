@@ -63,9 +63,11 @@ def main():
                 continue
             v.setdefault("url", ITEM.format(nid))
             try:
-                body = clean(fetch(v["url"]))
-                body = body[body.find(v["title"][:10]):] if v["title"][:10] in body else body
-                v["stocks"] = stocks_in(body[:6000])
+                raw = fetch(v["url"])
+                m = re.search(r'class="inner_box">(.*?)class="btnArea"', raw, re.S)
+                if not m:
+                    raise ValueError("找不到文章內文區塊")
+                v["stocks"] = stocks_in(clean(m.group(1)))
             except Exception as e:
                 v["stocks_error"] = str(e)
         status = f"正常（本次列表 {len(items)} 則，新增 {n} 篇）"
