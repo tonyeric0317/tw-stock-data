@@ -64,7 +64,7 @@ def main():
             v.setdefault("url", ITEM.format(nid))
             try:
                 raw = fetch(v["url"])
-                m = re.search(r'class="inner_box">(.*?)class="btnArea"', raw, re.S)
+                m = re.search(r'<h5 class="tit">(.*?)class="btnArea"', raw, re.S)
                 if not m:
                     raise ValueError("找不到文章內文區塊")
                 v["stocks"] = stocks_in(clean(m.group(1)))
