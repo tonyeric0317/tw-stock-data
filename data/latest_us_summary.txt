@@ -1,7 +1,22 @@
-美股交易日：2026-11-20（美東）
+美股交易日：2026-11-23（美東）
 資料來源：TradingView 篩選器（美股個股，不含 ETF、優先股、權證），成交額＝當日成交金額
-核對用：成交額前 5 名 NVDA 125.53（-14.01%）、ANT 88.91（-8.50%）、MU 594.51（-13.89%）、AMD 424.39（-13.25%）、AAPL 342.56（-1.90%）
-成交額第 30 名門檻：38.52 億美元
+核對用：成交額前 5 名 NVDA 165.05（+31.48%）、MU 707.7（+19.04%）、AMD 453.46（+6.85%）、ANT 87.64（-1.43%）、AAPL 349.08（+1.90%）
+成交額第 30 名門檻：34.94 億美元
 
 === 成交額前 30 名中漲幅 ≥ 8% 的個股 ===
-成交額前 30 名無漲幅 8% 以上個股
+# 1 NVDA NVIDIA Corporation  收 165.05  +31.48%  成交額 1280.22 億美元  產業 Semiconductors
+# 2 MU Micron Technology, Inc.  收 707.7  +19.04%  成交額 349.30 億美元  產業 Semiconductors
+# 6 TSLA Tesla, Inc.  收 385.46  +11.46%  成交額 177.28 億美元  產業 Motor Vehicles
+#13 SNDK Sandisk Corporation  收 87.71  +10.69%  成交額 98.69 億美元  產業 Computer Peripherals
+#14 INTC Intel Corporation  收 59.66  +16.34%  成交額 97.56 億美元  產業 Semiconductors
+#16 DELL Dell Technologies, Inc. Class C  收 334.91  +20.46%  成交額 53.61 億美元  產業 Computer Processing Hardware
+#17 MRVL Marvell Technology, Inc.  收 144.74  +18.37%  成交額 53.07 億美元  產業 Semiconductors
+#18 PLTR Palantir Technologies Inc. Class A  收 159.36  +11.06%  成交額 50.76 億美元  產業 Packaged Software
+#19 NBIS Nebius Group N.V. Class A  收 97.8  +20.28%  成交額 50.18 億美元  產業 Packaged Software
+#20 CRWV CoreWeave, Inc. Class A  收 48.33  +22.32%  成交額 45.68 億美元  產業 Packaged Software
+#21 ORCL Oracle Corporation  收 113.68  +12.34%  成交額 45.41 億美元  產業 Packaged Software
+#22 ZS Zscaler, Inc.  收 229.24  +17.67%  成交額 43.77 億美元  產業 Packaged Software
+#24 AMAT Applied Materials, Inc.  收 346.87  +14.62%  成交額 43.04 億美元  產業 Industrial Machinery
+#26 BE Bloom Energy Corporation Class A  收 168.15  +18.04%  成交額 37.77 億美元  產業 Electronic Production Equipment
+#27 LRCX Lam Research Corporation  收 209.76  +14.45%  成交額 36.12 億美元  產業 Industrial Machinery
+#30 TXN Texas Instruments Incorporated  收 291.19  +10.40%  成交額 34.94 億美元  產業 Semiconductors
