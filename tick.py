@@ -44,7 +44,7 @@ def tw_job(now):
             os.remove(f)
         return print("台股：官方資料尚未更新，下次再試")
     run([sys.executable, "make_over10.py", D])
-    for a, b in [("summary", "txt"), ("over10", "csv"), ("over5", "csv"), ("top100", "csv"), ("turnover", "csv")]:
+    for a, b in [("summary", "txt"), ("over10", "csv"), ("over5", "csv"), ("top100", "csv"), ("turnover", "csv"), ("limitup", "csv")]:
         shutil.copy(f"data/{a}_{D}.{b}", f"data/latest_{a}.{b}")
     print(f"台股：{D} 更新完成")
 
@@ -83,7 +83,8 @@ def main():
     now = dt.datetime.now(TW)
     print("台灣時間", now, "／美東時間", now.astimezone(ET))
     for name, fn in [("台股", lambda: tw_job(now)), ("美股", lambda: us_job(now.astimezone(ET))),
-                     ("新聞", lambda: run([sys.executable, "news.py"])), ("清理", lambda: cleanup(now))]:
+                     ("新聞", lambda: run([sys.executable, "news.py"])),
+                     ("熱門族群", lambda: run([sys.executable, "hotgroup.py"])), ("清理", lambda: cleanup(now))]:
         try:
             fn()
         except Exception as e:
