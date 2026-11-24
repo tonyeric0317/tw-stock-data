@@ -375,5 +375,30 @@
 "2454"
 ]
 ]
+},
+"202611240113125": {
+"date": "2026-11-24",
+"time": "11:31",
+"title": "《熱門族群》輝黃再現！興櫃AI股熱度飆升",
+"url": "https://www.yuanta.com.tw/eYuanta/Securities/News/GetAPItem?Type=StockHotNews&id=202611240113125",
+"first_seen": "2026-11-24T12:00+08:00",
+"stocks": []
+},
+"202611240111830": {
+"date": "2026-11-24",
+"time": "11:18",
+"title": "《熱門族群》台股PCB復活大爆噴！散戶小心這檔無漲幅限制 溢價飆高",
+"url": "https://www.yuanta.com.tw/eYuanta/Securities/News/GetAPItem?Type=StockHotNews&id=202611240111830",
+"first_seen": "2026-11-24T12:00+08:00",
+"stocks": [
+[
+"恆大",
+"1325"
+],
+[
+"達新",
+"1315"
+]
+]
 }
 }
