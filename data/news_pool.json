@@ -1,15 +1,5 @@
 [
 {
-"source": "鉅亨網",
-"title": "鉅亨速報 - Factset 最新調查：文曄(3036-TW)目標價調降至248元，幅度約4.62%",
-"url": "https://news.cnyes.com/news/id/6669687",
-"time": "2026-11-21T08:10:20+08:00",
-"codes": [
-"3036"
-],
-"first_seen": "2026-11-21T11:28+08:00"
-},
-{
 "source": "工商時報",
 "title": "Fed升息就得清光AI股？法人揭4大條件 台積電到中華電5檔出列",
 "url": "https://www.ctee.com.tw/news/20261121700011-430201",
@@ -10388,5 +10378,22 @@
 "url": "https://money.udn.com/money/story/5599/9900071",
 "time": null,
 "first_seen": "2026-11-25T08:00+08:00"
+},
+{
+"source": "鉅亨網",
+"title": "鉅亨速報 - Factset 最新調查：旭隼(6409-TW)EPS預估下修至29.55元，預估目標價為1000元",
+"url": "https://news.cnyes.com/news/id/6671213",
+"time": "2026-11-25T08:10:36+08:00",
+"codes": [
+"6409"
+],
+"first_seen": "2026-11-25T08:15+08:00"
+},
+{
+"source": "經濟日報",
+"title": "08:03 東北季風影響今明溼答答 吳德榮：周六投票日晴朗好天氣 下周一更熱",
+"url": "https://money.udn.com/money/story/122328/9900012",
+"time": null,
+"first_seen": "2026-11-25T08:15+08:00"
 }
 ]
