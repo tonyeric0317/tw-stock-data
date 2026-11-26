@@ -1,12 +1,5 @@
 [
 {
-"source": "工商時報",
-"title": "iPhone Duo上市滿月 中國市場降價幅度續擴大",
-"url": "https://www.ctee.com.tw/news/20261122700644-430803",
-"time": "2026-11-22T22:22:16+08:00",
-"first_seen": "2026-11-22T22:55+08:00"
-},
-{
 "source": "經濟日報",
 "title": "22:15 禁空令擋不住股災？歷史3次僅1次快反轉 關鍵曝光",
 "url": "https://money.udn.com/money/story/5613/9895112",
@@ -19003,6 +18996,13 @@
 },
 {
 "source": "經濟日報",
+"title": "今日最夯股／華新科波動收漲停 均線仍處低檔",
+"url": "https://money.udn.com/money/story/5607/9904533",
+"time": "2026-11-26T22:11:00+08:00",
+"first_seen": "2026-11-26T22:30+08:00"
+},
+{
+"source": "經濟日報",
 "title": "今彩539第115286期 頭獎1注中獎",
 "url": "https://money.udn.com/money/story/5612/9904524",
 "time": "2026-11-26T22:12:00+08:00",
@@ -19014,5 +19014,26 @@
 "url": "https://money.udn.com/money/story/5613/9904473",
 "time": null,
 "first_seen": "2026-11-26T22:15+08:00"
+},
+{
+"source": "經濟日報",
+"title": "今日最夯股／聯茂午盤鎖漲停 上檔仍有月、季線反壓",
+"url": "https://money.udn.com/money/story/5607/9904532",
+"time": "2026-11-26T22:17:00+08:00",
+"first_seen": "2026-11-26T22:30+08:00"
+},
+{
+"source": "工商時報",
+"title": "AI熱潮 全球貿易洗牌！半導體出口金額首度超越石油與天然氣",
+"url": "https://www.ctee.com.tw/news/20261126702123-430701",
+"time": "2026-11-26T22:19:49+08:00",
+"first_seen": "2026-11-26T22:30+08:00"
+},
+{
+"source": "經濟日報",
+"title": "22:24 槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
+"url": "https://money.udn.com/money/story/5599/9904501",
+"time": null,
+"first_seen": "2026-11-26T22:30+08:00"
 }
 ]
