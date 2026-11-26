@@ -1,201 +1,201 @@
 名次,代號,名稱,收盤,漲跌幅%,成交量,成交額(億美元),市值(億美元),產業
-1,NVDA,NVIDIA Corporation,149.3,-3.91,352269752,525.94,35981.3,Semiconductors
-2,MU,"Micron Technology, Inc.",601.25,-4.53,51812042,311.52,6802.7,Semiconductors
-3,ANT,"Anthropic, PBC Class A",82.79,1.08,289735261,239.87,10944.5,Packaged Software
-4,AMD,"Advanced Micro Devices, Inc.",406.91,-1.54,48268928,196.41,6673.7,Semiconductors
-5,SPCX,Space Exploration Technologies Corp,127.44,1.30,145046226,184.85,17307.7,Specialty Telecommunications
-6,AAPL,Apple Inc.,355.58,0.43,48355951,171.94,51673.5,Telecommunications Equipment
-7,AMZN,"Amazon.com, Inc.",244.367,-3.14,60367604,147.52,26423.7,Internet Retail
-8,TSLA,"Tesla, Inc.",380.14,-1.18,33111427,125.87,15026.0,Motor Vehicles
-9,MSFT,Microsoft Corporation,489.93,-1.25,23174716,113.54,36383.2,Packaged Software
-10,META,Meta Platforms Inc Class A,609.89,3.40,17832197,108.76,15590.3,Internet Software/Services
-11,GOOGL,Alphabet Inc. Class A,273.1,-2.13,39279954,107.27,33247.4,Internet Software/Services
-12,AVGO,Broadcom Inc.,300.86,-0.07,31733078,95.47,14361.9,Semiconductors
-13,SNDK,Sandisk Corporation,73.61,-5.57,120484606,88.69,837.9,Computer Peripherals
-14,DELL,"Dell Technologies, Inc. Class C",296.92,0.56,25144720,74.66,1887.9,Computer Processing Hardware
-15,INTC,Intel Corporation,54.47,-0.60,126073440,68.67,2895.1,Semiconductors
-16,INSM,Insmed Incorporated,170.31,0.09,31134823,53.03,373.6,Pharmaceuticals: Major
-17,LRCX,Lam Research Corporation,185.01,-5.68,20540604,38.00,2311.1,Industrial Machinery
-18,MRVL,"Marvell Technology, Inc.",130.93,-0.49,27867527,36.49,1148.1,Semiconductors
-19,GEV,GE Vernova Inc.,715.14,-0.76,5047763,36.10,1892.8,Electrical Products
-20,AMAT,"Applied Materials, Inc.",311.18,-3.89,11317207,35.22,2469.5,Industrial Machinery
-21,ORCL,Oracle Corporation,103.87,-5.14,33705618,35.01,3140.8,Packaged Software
-22,CRWV,"CoreWeave, Inc. Class A",42.57,-0.08,81125460,34.54,236.7,Packaged Software
-23,NBIS,Nebius Group N.V. Class A,84.99,-2.66,39800809,33.83,248.9,Packaged Software
-24,CRWD,"CrowdStrike Holdings, Inc. Class A",209.3,-0.74,13349680,27.94,2157.0,Packaged Software
-25,LLY,Eli Lilly and Company,1392.44,-1.08,1988501,27.69,13099.3,Pharmaceuticals: Major
-26,PLTR,Palantir Technologies Inc. Class A,163.555,1.47,16925444,27.68,3940.9,Packaged Software
-27,BE,Bloom Energy Corporation Class A,152.89,-2.25,18058086,27.61,452.0,Electronic Production Equipment
-28,TXN,Texas Instruments Incorporated,270.19,4.55,10201859,27.56,2468.9,Semiconductors
-29,V,Visa Inc. Class A,424.39,1.83,6461254,27.42,7869.8,Finance/Rental/Leasing
-30,WMT,Walmart Inc.,131.89,-0.32,20395985,26.90,10463.8,Specialty Stores
-31,COST,Costco Wholesale Corporation,1086.81,-0.45,2443965,26.56,4816.0,Specialty Stores
-32,GS,"Goldman Sachs Group, Inc.",801.03,-0.62,3197542,25.61,2310.4,Investment Banks/Brokers
-33,LITE,"Lumentum Holdings, Inc.",476.58,-2.16,5285102,25.19,432.3,Electrical Products
-34,NFLX,"Netflix, Inc.",59.397,0.90,41771293,24.81,2439.0,Internet Software/Services
-35,QCOM,QUALCOMM Incorporated,168.66,2.24,13679849,23.07,1804.7,Semiconductors
-36,MA,Mastercard Incorporated Class A,659.97,1.94,3482939,22.99,5749.5,Finance/Rental/Leasing
-37,HD,"Home Depot, Inc.",361.26,2.14,6243100,22.55,3604.8,Home Improvement Chains
-38,ADI,"Analog Devices, Inc.",333.105,6.44,8479460,22.27,1614.1,Semiconductors
-39,MSTR,Strategy Inc Class A,79.96,3.11,29323727,21.98,337.7,Financial Conglomerates
-40,JNJ,Johnson & Johnson,273.94,-0.91,7967447,21.83,6594.6,Pharmaceuticals: Major
-41,UNH,UnitedHealth Group Incorporated,346.19,1.26,6119990,21.19,3101.9,Managed Health Care
-42,KO,Coca-Cola Company,97.59,-0.03,19958727,19.48,4198.2,Beverages: Non-Alcoholic
-43,KLAC,KLA Corporation,134.2,0.41,14064429,18.87,1748.6,Semiconductors
-44,PANW,"Palo Alto Networks, Inc.",356.11,0.88,5160523,18.38,2923.7,Packaged Software
-45,COHR,Coherent Corp.,196.17,-0.04,8801060,17.27,386.4,Semiconductors
-46,BAC,Bank of America Corp,48.54,-0.04,35513627,17.24,3349.4,Major Banks
-47,APP,AppLovin Corp. Class A,378.95,-0.57,4473761,16.95,1255.5,Packaged Software
-48,DIS,Walt Disney Company,125.63,2.55,13340167,16.76,2145.8,Movies/Entertainment
-49,CAT,Caterpillar Inc.,543.66,0.56,3056232,16.62,2487.8,Trucks/Construction/Farm Machinery
-50,XOM,Exxonmobil Holdings Corporation,158.255,0.02,9952889,15.75,6455.6,Integrated Oil
-51,STX,Seagate Technology Holdings PLC,472.33,-2.10,3592173,15.31,1084.3,Computer Peripherals
-52,WDC,Western Digital Corporation,272.08,-0.68,5440803,14.80,1018.5,Computer Peripherals
-53,MCD,McDonald's Corporation,283.5,1.00,5179471,14.68,2000.9,Restaurants
-54,DE,Deere & Company,641.02,4.44,2276715,14.59,1728.4,Trucks/Construction/Farm Machinery
-55,AMGN,Amgen Inc.,469.24,-0.99,3088939,14.49,2538.2,Biotechnology
-56,JPM,JPMorgan Chase & Co.,316.78,-0.10,4475085,14.18,8412.4,Major Banks
-57,NOW,"ServiceNow, Inc.",92.16,0.46,15219763,14.03,956.6,Packaged Software
-58,PWR,"Quanta Services, Inc.",565.47,-4.10,2435382,13.77,852.0,Engineering & Construction
-59,MRNA,"Moderna, Inc.",220.76,-2.91,6167595,13.62,893.2,Biotechnology
-60,MS,Morgan Stanley,167.47,-0.78,7953047,13.32,2617.6,Investment Managers
-61,ABBV,"AbbVie, Inc.",294.4,-1.96,4398271,12.95,5203.9,Pharmaceuticals: Major
-62,CRM,"Salesforce, Inc.",197.21,2.04,6560768,12.94,1623.0,Packaged Software
-63,HOOD,"Robinhood Markets, Inc. Class A",65.78,0.20,19591012,12.89,592.3,Investment Banks/Brokers
-64,VRT,Vertiv Holdings Co. Class A,173.37,-0.26,7255564,12.58,667.6,Electronic Production Equipment
-65,NXPI,NXP Semiconductors NV,242.96,1.49,5174723,12.57,612.4,Semiconductors
-66,IBM,International Business Machines Corporation,243.47,3.33,5109026,12.44,2301.1,Information Technology Services
-67,HPQ,HP Inc.,31.15,11.49,38595716,12.02,280.9,Information Technology Services
-68,APH,Amphenol Corporation Class A,73.08,-0.53,16097954,11.76,1804.5,Electronic Components
-69,ANET,Arista Networks Inc,163.99,-2.71,7163051,11.75,2071.9,Computer Peripherals
-70,MELI,"MercadoLibre, Inc.",1467.3,1.17,799075,11.72,743.9,Internet Retail
-71,C,Citigroup Inc.,113.34,-0.45,10307338,11.68,1876.0,Major Banks
-72,PM,Philip Morris International Inc.,184.32,0.20,6271565,11.56,2872.9,Tobacco
-73,UBER,"Uber Technologies, Inc.",66.35,2.55,17298098,11.48,1354.8,Other Transportation
-74,ISRG,"Intuitive Surgical, Inc.",427.18,-1.68,2636572,11.26,1480.8,Medical Specialties
-75,MRK,"Merck & Co., Inc.",140.44,-0.80,7977072,11.20,3462.2,Pharmaceuticals: Major
-76,PG,Procter & Gamble Company,173.24,0.45,6435923,11.15,4015.3,Household/Personal Care
-77,CSCO,"Cisco Systems, Inc.",94.2,0.22,16013241,10.98,3713.8,Telecommunications Equipment
-78,SPOT,Spotify Technology SA,616.17,2.74,1753036,10.80,1268.6,Internet Software/Services
-79,CVX,Chevron Corporation,211.0875,1.13,5056987,10.67,4148.8,Integrated Oil
-80,MDT,Medtronic Plc,96.06,-0.07,11098061,10.66,1228.8,Medical Specialties
-81,ZS,"Zscaler, Inc.",230.86,-0.33,4602609,10.63,378.9,Packaged Software
-82,IREN,IREN Limited,12.85,-0.77,81338591,10.45,54.5,Data Processing Services
-83,HPE,Hewlett Packard Enterprise Co.,40.83,1.59,25080814,10.24,537.3,Computer Processing Hardware
-84,ALAB,"Astera Labs, Inc.",189.95,-0.71,5334741,10.13,332.0,Semiconductors
-85,COIN,"Coinbase Global, Inc. Class A",103.72,1.34,9693252,10.05,274.6,Investment Banks/Brokers
-86,LIN,Linde plc,524.61,1.51,1906732,10.00,2408.4,Chemicals: Specialty
-87,GE,GE Aerospace,316.98,-0.33,3128772,9.92,3275.5,Aerospace & Defense
-88,SMCI,"Super Micro Computer, Inc.",23.31,3.05,42490329,9.90,153.7,Computer Processing Hardware
-89,SCHW,Charles Schwab Corp,93.45,-0.49,10585822,9.89,1613.0,Investment Banks/Brokers
-90,TTWO,"Take-Two Interactive Software, Inc.",227.26,3.11,4302116,9.78,425.5,Packaged Software
-91,ACN,Accenture Plc Class A,240.49,3.52,4064675,9.78,1421.4,Information Technology Services
-92,BA,Boeing Company,164.53,0.57,5865051,9.65,1303.8,Aerospace & Defense
-93,NKE,"NIKE, Inc. Class B",36.66,2.55,26262003,9.63,544.5,Apparel/Footwear
-94,SNOW,"Snowflake, Inc.",267.72,-1.24,3582037,9.59,944.5,Packaged Software
-95,CI,Cigna Group,271.42,-1.30,3521095,9.56,715.2,Managed Health Care
-96,TJX,TJX Companies Inc,146.07,1.54,6399489,9.35,1606.7,Apparel/Footwear Retail
-97,SHOP,"Shopify, Inc. Class A",133.4,0.82,6976810,9.31,1716.2,Miscellaneous Commercial Services
-98,RKLB,Rocket Lab Corporation,47.02,2.26,19652461,9.24,297.2,Aerospace & Defense
-99,CEG,Constellation Energy Corporation,235.21,-3.93,3902442,9.18,833.4,Electric Utilities
-100,ETN,Eaton Corp. Plc,317.205,-0.65,2876166,9.12,1232.3,Electrical Products
-101,RKT,"Rocket Companies, Inc. Class A",15.3,7.37,59024368,9.03,434.2,Finance/Rental/Leasing
-102,DASH,"DoorDash, Inc. Class A",166.39,3.91,5402192,8.99,725.5,Air Freight/Couriers
-103,PEP,"PepsiCo, Inc.",143.93,0.88,5960180,8.58,1961.4,Food: Specialty/Candy
-104,MPWR,"Monolithic Power Systems, Inc.",1194.65,0.38,717861,8.58,582.6,Semiconductors
-105,CRDO,Credo Technology Group Holding Ltd.,106.795,0.31,8026955,8.57,200.7,Information Technology Services
-106,INTU,Intuit Inc.,271.72,-2.76,3722946,8.54,717.4,Packaged Software
-107,UNP,Union Pacific Corporation,298.38,2.60,2850305,8.50,1773.1,Railroads
-108,VRTX,Vertex Pharmaceuticals Incorporated,564.12,0.04,1488850,8.40,1430.3,Pharmaceuticals: Major
-109,BKNG,Booking Holdings Inc.,149.5,1.95,5611073,8.39,1111.8,Other Consumer Services
-110,AAL,American Airlines Group Inc.,12.565,-0.32,66444306,8.35,83.3,Airlines
-111,SBUX,Starbucks Corporation,107.7,1.24,7593137,8.18,1227.9,Restaurants
-112,ADSK,"Autodesk, Inc.",246.785,-3.49,3231235,7.97,515.8,Packaged Software
-113,GLW,Corning Inc,100.15,-1.69,7929646,7.94,862.7,Electronic Components
-114,TMO,Thermo Fisher Scientific Inc.,685.28,-1.49,1139268,7.81,2539.1,Medical Specialties
-115,COF,Capital One Financial Corp,182.52,0.64,4243270,7.74,1097.9,Major Banks
-116,FIX,"Comfort Systems USA, Inc.",1099.58,0.28,701970,7.72,384.7,Engineering & Construction
-117,VZ,Verizon Communications Inc.,47.28,0.25,19035032,7.69,1959.6,Wireless Telecommunications
-118,NEM,Newmont Corporation,101.44,1.76,7526844,7.64,1054.2,Precious Metals
-119,DDOG,"Datadog, Inc. Class A",158.25,-4.31,4783662,7.57,571.5,Packaged Software
-120,T,AT&T Inc,22.961,0.35,32626618,7.49,1546.8,Wireless Telecommunications
-121,FCX,"Freeport-McMoRan, Inc.",48.57,1.76,15199654,7.38,696.9,Other Metals/Minerals
-122,CBRS,"Cerebras Systems, Inc. Class A",89.7,1.04,8205313,7.36,205.7,Packaged Software
-123,WDAY,"Workday, Inc. Class A",180.44,0.68,4070155,7.34,433.1,Information Technology Services
-124,MCHP,Microchip Technology Incorporated,57.5,2.02,12757287,7.34,312.9,Semiconductors
-125,VLO,Valero Energy Corporation,323,-0.51,2264390,7.31,900.8,Oil Refining/Marketing
-126,NEE,"NextEra Energy, Inc.",85.41,0.98,8509805,7.27,1791.3,Electric Utilities
-127,MPC,Marathon Petroleum Corporation,346.27,-2.50,2096895,7.26,942.8,Oil Refining/Marketing
-128,CIEN,Ciena Corporation,242.79,1.47,2981461,7.24,344.3,Telecommunications Equipment
-129,SOFI,SoFi Technologies Inc,13.07,1.63,54543026,7.13,169.6,Finance/Rental/Leasing
-130,SNPS,"Synopsys, Inc.",405.09,-2.35,1758407,7.12,776.3,Packaged Software
-131,GILD,"Gilead Sciences, Inc.",176.74,-0.87,5062373,7.07,2192.2,Biotechnology
-132,CMI,Cummins Inc.,420.58,1.39,1670443,7.03,576.5,Auto Parts: OEM
-133,ABT,Abbott Laboratories,108.02,2.50,6471795,6.99,1870.8,Medical Specialties
-134,SPGI,"S&P Global, Inc.",460.74,1.22,1510900,6.96,1335.7,Financial Publishing/Services
-135,TGT,Target Corporation,172.18,-2.20,4010049,6.90,779.5,Specialty Stores
-136,AXON,Axon Enterprise Inc,343.05,7.43,2005977,6.88,279.4,Aerospace & Defense
-137,COP,ConocoPhillips,135.02,0.28,5055757,6.83,1596.4,Oil & Gas Production
-138,CVS,CVS Health Corporation,81.04,0.43,8340143,6.76,1036.9,Drugstore Chains
-139,URI,"United Rentals, Inc.",1015.72,-1.36,663062,6.73,628.9,Finance/Rental/Leasing
-140,BMNR,BitMine Immersion Technologies Inc,13.44,1.97,50071318,6.73,84.2,Financial Conglomerates
-141,AJG,Arthur J. Gallagher & Co.,292.39,1.94,2298614,6.72,749.7,Insurance Brokers/Services
-142,ABNB,"Airbnb, Inc. Class A",172.15,-0.72,3886541,6.69,1018.7,Hotels/Resorts/Cruise lines
-143,RTX,RTX Corporation,196.19,0.44,3395948,6.66,2647.5,Aerospace & Defense
-144,EOG,"EOG Resources, Inc.",148.31,1.17,4440291,6.59,769.0,Integrated Oil
-145,MDLZ,"Mondelez International, Inc. Class A",67.81,1.19,9669397,6.56,858.4,Food: Specialty/Candy
-146,NET,Cloudflare Inc Class A,283.31,-1.39,2296171,6.51,1008.3,Information Technology Services
-147,ADBE,Adobe Inc.,232.76,0.29,2730733,6.36,905.9,Packaged Software
-148,SYK,Stryker Corporation,332.83,2.70,1898991,6.32,1267.1,Medical Specialties
-149,NTNX,"Nutanix, Inc. Class A",46.3,-15.19,13583777,6.29,126.3,Data Processing Services
-150,NU,Nu Holdings Ltd. Class A,12.36,4.22,50643721,6.26,598.0,Regional Banks
-151,CDNS,"Cadence Design Systems, Inc.",294.89,-0.58,2122004,6.26,809.1,Packaged Software
-152,TER,"Teradyne, Inc.",212.21,-0.47,2947605,6.26,331.3,Electronic Production Equipment
-153,LMT,Lockheed Martin Corporation,599.33,2.16,1035195,6.20,1384.5,Aerospace & Defense
-154,BSX,Boston Scientific Corporation,45.12,2.22,13719579,6.19,654.0,Medical Specialties
-155,CRCL,"Circle Internet Group, Inc. Class A",48.27,1.15,12821540,6.19,123.8,Packaged Software
-156,BLK,"BlackRock, Inc.",1141.355,-0.41,537581,6.14,1849.3,Investment Managers
-157,HLT,Hilton Worldwide Holdings Inc.,366.08,0.48,1662935,6.09,814.5,Hotels/Resorts/Cruise lines
-158,ON,ON Semiconductor Corporation,62.44,1.54,9643858,6.02,243.1,Semiconductors
-159,ADP,"Automatic Data Processing, Inc.",316.72,1.91,1897531,6.01,1250.3,Packaged Software
-160,ASTS,"AST SpaceMobile, Inc. Class A",26.005,10.19,23037753,5.99,101.4,Specialty Telecommunications
-161,ZM,"Zoom Communications, Inc. Class A",88.56,0.18,6757770,5.98,258.4,Packaged Software
-162,CB,Chubb Limited,380.42,1.35,1572489,5.98,1453.5,Property/Casualty Insurance
-163,PSX,Phillips 66,236.08,-0.37,2532514,5.98,920.9,Oil Refining/Marketing
-164,VIK,Viking Holdings Ltd,99.22,-1.64,6016651,5.97,439.0,Hotels/Resorts/Cruise lines
-165,AZO,"AutoZone, Inc.",3405.16,1.47,173426,5.91,548.0,Specialty Stores
-166,CVNA,Carvana Co. Class A,67.79,2.77,8559878,5.80,747.9,Specialty Stores
-167,WFC,Wells Fargo & Company,80.94,-0.31,7165052,5.80,2429.7,Major Banks
-168,FTNT,"Fortinet, Inc.",134.96,1.86,4296024,5.80,991.6,Information Technology Services
-169,KYMR,"Kymera Therapeutics, Inc.",173.7,-0.13,3279288,5.70,148.3,Biotechnology
-170,MMM,3M Company,189.96,1.51,2949743,5.60,981.6,Industrial Conglomerates
-171,VST,Vistra Corp.,121.32,0.50,4606369,5.59,411.8,Electric Utilities
-172,O,Realty Income Corporation,60.25,1.18,9052090,5.45,573.0,Real Estate Investment Trusts
-173,WELL,Welltower Inc.,246.16,0.42,2206179,5.43,1805.9,Real Estate Investment Trusts
-174,PYPL,"PayPal Holdings, Inc.",57.81,2.92,9355817,5.41,480.2,Miscellaneous Commercial Services
-175,F,Ford Motor Company,12.17,1.84,44174090,5.38,486.0,Motor Vehicles
-176,JCI,Johnson Controls International plc,136.5,-0.39,3913393,5.34,819.3,Industrial Machinery
-177,OKTA,"Okta, Inc. Class A",201.77,1.84,2635077,5.32,352.7,Packaged Software
-178,IONQ,"IonQ, Inc.",23.54,5.09,22217954,5.23,101.8,Computer Processing Hardware
-179,MCK,McKesson Corporation,1077.32,-0.07,483981,5.21,1243.8,Medical Distributors
-180,APO,Apollo Global Management Inc,120.48,0.53,4312025,5.20,711.4,Investment Managers
-181,EBAY,eBay Inc.,115.54,1.56,4472540,5.17,507.2,Internet Retail
-182,HUM,Humana Inc.,406.27,0.88,1270496,5.16,487.9,Managed Health Care
-183,UPS,"United Parcel Service, Inc. Class B",111.43,0.54,4627265,5.16,948.8,Air Freight/Couriers
-184,ICE,"Intercontinental Exchange, Inc.",177.81,1.67,2891549,5.14,993.7,Investment Banks/Brokers
-185,COR,"Cencora, Inc.",354.05,1.25,1448055,5.13,675.6,Medical Distributors
-186,SHW,Sherwin-Williams Company,361.02,2.40,1772209,5.11,872.2,Industrial Specialties
-187,REGN,"Regeneron Pharmaceuticals, Inc.",981.495,-0.57,516797,5.07,1015.2,Pharmaceuticals: Major
-188,AMBA,"Ambarella, Inc.",35.67,-19.79,14196467,5.06,15.7,Semiconductors
-189,ORLY,"O'Reilly Automotive, Inc.",96.68,1.31,5235908,5.06,775.4,Specialty Stores
-190,RVMD,"Revolution Medicines, Inc.",175.67,-3.04,2877677,5.06,380.0,Pharmaceuticals: Other
-191,ROP,"Roper Technologies, Inc.",483.09,1.39,1041134,5.03,478.4,Packaged Software
-192,XEL,Xcel Energy Inc.,81.11,0.37,6199817,5.03,520.6,Electric Utilities
-193,PFE,Pfizer Inc.,28.46,0.00,17589057,5.01,1622.2,Pharmaceuticals: Major
-194,UAL,"United Airlines Holdings, Inc.",104.52,-3.04,4776344,4.99,339.6,Airlines
-195,URBN,"Urban Outfitters, Inc.",76.74,-10.33,6467660,4.96,65.7,Apparel/Footwear Retail
-196,CHTR,"Charter Communications, Inc. Class A",147.215,8.35,3334452,4.91,257.8,Cable/Satellite TV
-197,MSI,"Motorola Solutions, Inc.",541.09,2.08,906641,4.91,894.6,Telecommunications Equipment
-198,SO,Southern Company,94.99,0.94,5155038,4.90,1105.9,Electric Utilities
-199,WMB,"Williams Companies, Inc.",66.45,0.68,7319229,4.86,830.8,Oil & Gas Pipelines
-200,CMCSA,Comcast Corporation Class A,25.73,1.38,23176338,4.86,913.7,Cable/Satellite TV
+1,NVDA,NVIDIA Corporation,149.3,-3.91,366567648,547.29,35981.3,Semiconductors
+2,MU,"Micron Technology, Inc.",601.25,-4.53,52986611,318.58,7701.6,Semiconductors
+3,ANT,"Anthropic, PBC Class A",82.79,1.08,293738459,243.19,10944.5,Packaged Software
+4,AMD,"Advanced Micro Devices, Inc.",406.03,-1.75,51630062,209.63,6659.2,Semiconductors
+5,AAPL,Apple Inc.,355.58,0.43,54285151,193.03,51673.5,Telecommunications Equipment
+6,SPCX,Space Exploration Technologies Corp,127.44,1.30,148278739,188.97,17307.7,Specialty Telecommunications
+7,AMZN,"Amazon.com, Inc.",244.43,-3.12,62479241,152.72,26430.6,Internet Retail
+8,TSLA,"Tesla, Inc.",380.14,-1.18,34914719,132.72,15026.0,Motor Vehicles
+9,MSFT,Microsoft Corporation,489.93,-1.25,26759322,131.10,36383.2,Packaged Software
+10,META,Meta Platforms Inc Class A,609.89,3.40,18667907,113.85,15590.3,Internet Software/Services
+11,GOOGL,Alphabet Inc. Class A,273.1,-2.13,41282875,112.74,33263.8,Internet Software/Services
+12,AVGO,Broadcom Inc.,300.86,-0.07,34349549,103.34,14361.9,Semiconductors
+13,SNDK,Sandisk Corporation,73.61,-5.57,124394626,91.57,837.9,Computer Peripherals
+14,DELL,"Dell Technologies, Inc. Class C",297.06,0.60,26689276,79.28,1888.7,Computer Processing Hardware
+15,INTC,Intel Corporation,54.47,-0.60,129274843,70.42,2895.1,Semiconductors
+16,INSM,Insmed Incorporated,170.31,0.09,31391443,53.46,373.6,Pharmaceuticals: Major
+17,LLY,Eli Lilly and Company,1392.22,-1.09,2928814,40.78,13097.2,Pharmaceuticals: Major
+18,ORCL,Oracle Corporation,103.88,-5.13,38489049,39.98,3141.1,Packaged Software
+19,LRCX,Lam Research Corporation,185.01,-5.68,21505522,39.79,2311.1,Industrial Machinery
+20,GEV,GE Vernova Inc.,715,-0.78,5548498,39.67,1892.4,Electrical Products
+21,MRVL,"Marvell Technology, Inc.",130.93,-0.49,28713000,37.59,1148.1,Semiconductors
+22,AMAT,"Applied Materials, Inc.",311.18,-3.89,11719392,36.47,2469.5,Industrial Machinery
+23,PLTR,Palantir Technologies Inc. Class A,163.59,1.50,21485940,35.15,3941.7,Packaged Software
+24,CRWV,"CoreWeave, Inc. Class A",42.57,-0.08,82501548,35.12,236.7,Packaged Software
+25,NBIS,Nebius Group N.V. Class A,84.99,-2.66,40763662,34.65,248.9,Packaged Software
+26,XOM,Exxonmobil Holdings Corporation,158.08,-0.09,21533706,34.04,6448.4,Integrated Oil
+27,WMT,Walmart Inc.,131.94,-0.28,23619936,31.16,10467.8,Specialty Stores
+28,ADI,"Analog Devices, Inc.",333.105,6.44,9205502,30.66,1607.8,Semiconductors
+29,CRWD,"CrowdStrike Holdings, Inc. Class A",209.3,-0.74,14571730,30.50,2157.0,Packaged Software
+30,COST,Costco Wholesale Corporation,1086.81,-0.45,2702759,29.37,4816.0,Specialty Stores
+31,BE,Bloom Energy Corporation Class A,152.89,-2.25,18646395,28.51,452.0,Electronic Production Equipment
+32,TXN,Texas Instruments Incorporated,270.19,4.55,10474335,28.30,2468.9,Semiconductors
+33,V,Visa Inc. Class A,424.39,1.83,6593337,27.98,7869.8,Finance/Rental/Leasing
+34,GS,"Goldman Sachs Group, Inc.",801.03,-0.62,3425908,27.44,2310.4,Investment Banks/Brokers
+35,NFLX,"Netflix, Inc.",59.41,0.92,45756502,27.18,2439.6,Internet Software/Services
+36,HD,"Home Depot, Inc.",361.26,2.14,7229996,26.12,3604.8,Home Improvement Chains
+37,LITE,"Lumentum Holdings, Inc.",476.58,-2.16,5428842,25.87,432.3,Electrical Products
+38,JNJ,Johnson & Johnson,273.94,-0.91,9058054,24.81,6594.6,Pharmaceuticals: Major
+39,KO,Coca-Cola Company,97.59,-0.03,24905461,24.31,4198.2,Beverages: Non-Alcoholic
+40,JPM,JPMorgan Chase & Co.,316.74,-0.11,7639010,24.20,8411.4,Major Banks
+41,MSTR,Strategy Inc Class A,79.96,3.11,30226432,24.17,337.7,Financial Conglomerates
+42,PANW,"Palo Alto Networks, Inc.",356.14,0.89,6690876,23.83,2923.9,Packaged Software
+43,QCOM,QUALCOMM Incorporated,168.66,2.24,14053656,23.70,1804.7,Semiconductors
+44,MA,Mastercard Incorporated Class A,659.97,1.94,3545656,23.40,5749.5,Finance/Rental/Leasing
+45,UNH,UnitedHealth Group Incorporated,346.19,1.26,6596382,22.84,3101.9,Managed Health Care
+46,DIS,Walt Disney Company,125.6,2.52,16354985,20.54,2145.3,Movies/Entertainment
+47,CAT,Caterpillar Inc.,543.69,0.57,3721530,20.23,2487.9,Trucks/Construction/Farm Machinery
+48,KLAC,KLA Corporation,134.2,0.41,14192581,19.05,1748.6,Semiconductors
+49,BAC,Bank of America Corp,48.54,-0.04,38285847,18.58,3349.4,Major Banks
+50,COHR,Coherent Corp.,196.19,-0.03,9381424,18.41,386.4,Semiconductors
+51,ABBV,"AbbVie, Inc.",294.48,-1.93,6164335,18.15,5205.3,Pharmaceuticals: Major
+52,WDC,Western Digital Corporation,272.45,-0.55,6515055,17.75,1019.8,Computer Peripherals
+53,MRK,"Merck & Co., Inc.",140.29,-0.90,12609862,17.69,3458.5,Pharmaceuticals: Major
+54,STX,Seagate Technology Holdings PLC,472.33,-2.10,3717024,17.56,1084.3,Computer Peripherals
+55,CSCO,"Cisco Systems, Inc.",94.2,0.22,18542335,17.47,3713.8,Telecommunications Equipment
+56,APP,AppLovin Corp. Class A,378.95,-0.57,4533963,17.18,1255.5,Packaged Software
+57,PG,Procter & Gamble Company,173.23,0.44,9893896,17.14,4015.1,Household/Personal Care
+58,MCD,McDonald's Corporation,283.5,1.00,5923056,16.79,2000.9,Restaurants
+59,MS,Morgan Stanley,167.55,-0.73,9742557,16.32,2618.9,Investment Managers
+60,AMGN,Amgen Inc.,469.24,-0.99,3392679,15.92,2538.2,Biotechnology
+61,CVX,Chevron Corporation,210.95,1.06,7367016,15.54,4146.1,Integrated Oil
+62,DE,Deere & Company,641.02,4.44,2353951,15.09,1728.4,Trucks/Construction/Farm Machinery
+63,MRNA,"Moderna, Inc.",220.84,-2.88,6812616,15.04,893.6,Biotechnology
+64,NOW,"ServiceNow, Inc.",92.16,0.46,15488606,14.27,956.6,Packaged Software
+65,PWR,"Quanta Services, Inc.",565.47,-4.10,2458419,13.90,852.0,Engineering & Construction
+66,GE,GE Aerospace,316.98,-0.33,4369437,13.85,3275.5,Aerospace & Defense
+67,TJX,TJX Companies Inc,146.09,1.55,9309103,13.60,1607.0,Apparel/Footwear Retail
+68,ANET,Arista Networks Inc,163.99,-2.71,8272981,13.57,2071.9,Computer Peripherals
+69,C,Citigroup Inc.,113.33,-0.46,11772535,13.34,1875.8,Major Banks
+70,HOOD,"Robinhood Markets, Inc. Class A",65.78,0.20,20254406,13.32,592.3,Investment Banks/Brokers
+71,CRM,"Salesforce, Inc.",197.21,2.04,6736401,13.28,1623.0,Packaged Software
+72,NXPI,NXP Semiconductors NV,242.96,1.49,5435585,13.21,612.4,Semiconductors
+73,UBER,"Uber Technologies, Inc.",66.35,2.55,19842511,13.17,1354.8,Other Transportation
+74,IBM,International Business Machines Corporation,243.47,3.33,5231889,12.74,2301.1,Information Technology Services
+75,VRT,Vertiv Holdings Co. Class A,173.37,-0.26,7335689,12.72,667.6,Electronic Production Equipment
+76,HPQ,HP Inc.,31.15,11.49,39105251,12.18,280.9,Information Technology Services
+77,CI,Cigna Group,271.42,-1.30,4483605,12.17,715.2,Managed Health Care
+78,PM,Philip Morris International Inc.,184.32,0.20,6593619,12.15,2872.9,Tobacco
+79,SPOT,Spotify Technology SA,616.46,2.79,1967903,12.13,1269.2,Internet Software/Services
+80,ISRG,"Intuitive Surgical, Inc.",427.18,-1.68,2839471,12.13,1480.8,Medical Specialties
+81,APH,Amphenol Corporation Class A,73.08,-0.53,16371429,11.96,1804.5,Electronic Components
+82,MDT,Medtronic Plc,96.06,-0.07,12304789,11.82,1228.8,Medical Specialties
+83,MELI,"MercadoLibre, Inc.",1467.3,1.17,804929,11.81,743.9,Internet Retail
+84,ALAB,"Astera Labs, Inc.",190.34,-0.50,6030686,11.48,332.7,Semiconductors
+85,HPE,Hewlett Packard Enterprise Co.,40.82,1.57,27644119,11.28,537.2,Computer Processing Hardware
+86,CEG,Constellation Energy Corporation,235.28,-3.90,4792517,11.28,827.3,Electric Utilities
+87,TMO,Thermo Fisher Scientific Inc.,685.52,-1.45,1642900,11.26,2540.0,Medical Specialties
+88,ETN,Eaton Corp. Plc,317.81,-0.46,3520242,11.19,1234.7,Electrical Products
+89,TTWO,"Take-Two Interactive Software, Inc.",227.34,3.14,4897321,11.13,425.6,Packaged Software
+90,MPWR,"Monolithic Power Systems, Inc.",1194.63,0.38,923243,11.03,582.6,Semiconductors
+91,GILD,"Gilead Sciences, Inc.",176.74,-0.87,6201136,10.96,2192.2,Biotechnology
+92,IREN,IREN Limited,12.85,-0.77,83311525,10.71,54.5,Data Processing Services
+93,ZS,"Zscaler, Inc.",230.86,-0.33,4633580,10.70,378.9,Packaged Software
+94,DASH,"DoorDash, Inc. Class A",166.4,3.92,6406227,10.66,725.5,Air Freight/Couriers
+95,LIN,Linde plc,524.61,1.51,1982114,10.40,2408.4,Chemicals: Specialty
+96,INTU,Intuit Inc.,271.72,-2.76,3821765,10.38,715.9,Packaged Software
+97,COIN,"Coinbase Global, Inc. Class A",103.72,1.34,9968412,10.34,274.6,Investment Banks/Brokers
+98,NKE,"NIKE, Inc. Class B",36.66,2.55,27974145,10.26,544.5,Apparel/Footwear
+99,SMCI,"Super Micro Computer, Inc.",23.31,3.05,43377072,10.11,153.7,Computer Processing Hardware
+100,SCHW,Charles Schwab Corp,93.45,-0.49,10793268,10.09,1613.0,Investment Banks/Brokers
+101,BA,Boeing Company,164.53,0.57,6094401,10.03,1303.8,Aerospace & Defense
+102,SBUX,Starbucks Corporation,107.74,1.28,9292729,10.01,1228.3,Restaurants
+103,SNOW,"Snowflake, Inc.",267.72,-1.24,3713691,9.94,944.5,Packaged Software
+104,ACN,Accenture Plc Class A,240.49,3.52,4133405,9.94,1421.4,Information Technology Services
+105,SHOP,"Shopify, Inc. Class A",133.4,0.82,7338283,9.79,1716.2,Miscellaneous Commercial Services
+106,RKLB,Rocket Lab Corporation,47.02,2.26,20013985,9.41,297.2,Aerospace & Defense
+107,T,AT&T Inc,22.97,0.39,40329221,9.26,1547.4,Wireless Telecommunications
+108,LMT,Lockheed Martin Corporation,599.24,2.15,1545115,9.26,1384.3,Aerospace & Defense
+109,DDOG,"Datadog, Inc. Class A",158.25,-4.31,5790732,9.16,571.5,Packaged Software
+110,VRTX,Vertex Pharmaceuticals Incorporated,564.12,0.04,1621244,9.15,1430.3,Pharmaceuticals: Major
+111,VZ,Verizon Communications Inc.,47.28,0.25,19336396,9.14,1959.6,Wireless Telecommunications
+112,UNP,Union Pacific Corporation,298.38,2.60,3061093,9.13,1773.1,Railroads
+113,RKT,"Rocket Companies, Inc. Class A",15.3,7.37,59560414,9.11,434.2,Finance/Rental/Leasing
+114,GLW,Corning Inc,100.24,-1.60,9025272,9.05,863.5,Electronic Components
+115,PEP,"PepsiCo, Inc.",143.93,0.88,6222878,8.96,1961.4,Food: Specialty/Candy
+116,CRDO,Credo Technology Group Holding Ltd.,106.795,0.31,8338909,8.91,200.7,Information Technology Services
+117,RTX,RTX Corporation,196.19,0.44,4508731,8.85,2647.5,Aerospace & Defense
+118,BKNG,Booking Holdings Inc.,149.5,1.95,5865728,8.77,1111.8,Other Consumer Services
+119,TGT,Target Corporation,172.22,-2.18,5082630,8.75,779.7,Specialty Stores
+120,ADBE,Adobe Inc.,232.83,0.32,3753707,8.74,906.2,Packaged Software
+121,ABT,Abbott Laboratories,108,2.48,8061899,8.71,1870.5,Medical Specialties
+122,AAL,American Airlines Group Inc.,12.57,-0.28,68786516,8.65,83.3,Airlines
+123,MCHP,Microchip Technology Incorporated,57.655,2.30,14839297,8.56,313.8,Semiconductors
+124,MMM,3M Company,189.83,1.44,4483451,8.51,980.9,Industrial Conglomerates
+125,WFC,Wells Fargo & Company,80.94,-0.31,10494455,8.49,2429.7,Major Banks
+126,FCX,"Freeport-McMoRan, Inc.",48.55,1.72,17420626,8.46,696.7,Other Metals/Minerals
+127,CVS,CVS Health Corporation,81.06,0.46,10408516,8.44,1037.1,Drugstore Chains
+128,REGN,"Regeneron Pharmaceuticals, Inc.",981.87,-0.53,854673,8.39,1015.6,Pharmaceuticals: Major
+129,KYMR,"Kymera Therapeutics, Inc.",173.77,-0.09,4822876,8.38,148.3,Biotechnology
+130,CBRS,"Cerebras Systems, Inc. Class A",89.68,1.01,9253277,8.30,205.6,Packaged Software
+131,CMI,Cummins Inc.,420.72,1.42,1952358,8.21,576.7,Auto Parts: OEM
+132,ADSK,"Autodesk, Inc.",246.785,-3.49,3320955,8.20,515.8,Packaged Software
+133,NEM,Newmont Corporation,101.44,1.76,7992031,8.11,1054.2,Precious Metals
+134,COP,ConocoPhillips,135.02,0.28,5853056,7.90,1596.4,Oil & Gas Production
+135,SHW,Sherwin-Williams Company,361.02,2.40,2187885,7.90,872.2,Industrial Specialties
+136,MPC,Marathon Petroleum Corporation,346.27,-2.50,2275974,7.88,942.8,Oil Refining/Marketing
+137,COF,Capital One Financial Corp,182.52,0.64,4298237,7.85,1097.9,Major Banks
+138,FIX,"Comfort Systems USA, Inc.",1099.58,0.28,708655,7.79,384.7,Engineering & Construction
+139,TER,"Teradyne, Inc.",212.15,-0.50,3667102,7.78,331.2,Electronic Production Equipment
+140,WELL,Welltower Inc.,246.18,0.42,3148915,7.75,1806.0,Real Estate Investment Trusts
+141,PFE,Pfizer Inc.,28.46,0.00,27143414,7.73,1622.2,Pharmaceuticals: Major
+142,CB,Chubb Limited,380.51,1.37,1980300,7.54,1453.8,Property/Casualty Insurance
+143,PSX,Phillips 66,236.08,-0.37,3155306,7.45,920.9,Oil Refining/Marketing
+144,VLO,Valero Energy Corporation,323,-0.51,2304585,7.44,900.8,Oil Refining/Marketing
+145,NEE,"NextEra Energy, Inc.",85.41,0.98,8714510,7.44,1791.3,Electric Utilities
+146,WDAY,"Workday, Inc. Class A",180.44,0.68,4119066,7.43,429.4,Information Technology Services
+147,BLK,"BlackRock, Inc.",1141.86,-0.36,650165,7.42,1850.2,Investment Managers
+148,TMUS,"T-Mobile US, Inc.",166.25,-0.63,4415233,7.34,1761.0,Wireless Telecommunications
+149,SYK,Stryker Corporation,332.9,2.72,2196229,7.31,1267.3,Medical Specialties
+150,LOW,"Lowe's Companies, Inc.",235.65,2.00,3099376,7.30,1322.1,Home Improvement Chains
+151,CIEN,Ciena Corporation,242.79,1.47,3006276,7.30,344.3,Telecommunications Equipment
+152,ON,ON Semiconductor Corporation,62.48,1.61,11669566,7.29,243.2,Semiconductors
+153,SNPS,"Synopsys, Inc.",405.09,-2.35,1796582,7.28,776.3,Packaged Software
+154,NET,Cloudflare Inc Class A,283.3,-1.39,2560315,7.25,1008.3,Information Technology Services
+155,SOFI,SoFi Technologies Inc,13.07,1.63,55299959,7.23,169.6,Finance/Rental/Leasing
+156,ADP,"Automatic Data Processing, Inc.",316.72,1.91,2262482,7.17,1250.3,Packaged Software
+157,SPGI,"S&P Global, Inc.",460.74,1.22,1539869,7.09,1335.7,Financial Publishing/Services
+158,MAR,"Marriott International, Inc. Class A",415.77,-0.11,1696072,7.05,1070.6,Hotels/Resorts/Cruise lines
+159,AZO,"AutoZone, Inc.",3404.46,1.45,205343,6.99,547.9,Specialty Stores
+160,AXP,American Express Company,312.39,1.22,2230151,6.97,2094.7,Finance/Rental/Leasing
+161,EOG,"EOG Resources, Inc.",148.31,1.17,4687619,6.95,769.0,Integrated Oil
+162,AJG,Arthur J. Gallagher & Co.,292.39,1.94,2374496,6.94,749.7,Insurance Brokers/Services
+163,AXON,Axon Enterprise Inc,343.05,7.43,2023561,6.94,279.4,Aerospace & Defense
+164,ASTS,"AST SpaceMobile, Inc. Class A",26.02,10.25,26658935,6.94,101.5,Specialty Telecommunications
+165,BMNR,BitMine Immersion Technologies Inc,13.44,1.97,51169647,6.88,84.2,Financial Conglomerates
+166,MDLZ,"Mondelez International, Inc. Class A",67.81,1.19,10118638,6.86,858.4,Food: Specialty/Candy
+167,URI,"United Rentals, Inc.",1015.72,-1.36,673128,6.84,628.9,Finance/Rental/Leasing
+168,ABNB,"Airbnb, Inc. Class A",172.15,-0.72,3944739,6.79,1018.7,Hotels/Resorts/Cruise lines
+169,ORLY,"O'Reilly Automotive, Inc.",96.69,1.32,6992269,6.76,775.5,Specialty Stores
+170,MSI,"Motorola Solutions, Inc.",541,2.06,1248319,6.75,894.5,Telecommunications Equipment
+171,HLT,Hilton Worldwide Holdings Inc.,366.2,0.52,1837800,6.73,814.8,Hotels/Resorts/Cruise lines
+172,CVNA,Carvana Co. Class A,67.84,2.85,9849843,6.68,748.5,Specialty Stores
+173,VIK,Viking Holdings Ltd,99.22,-1.64,6719122,6.67,439.0,Hotels/Resorts/Cruise lines
+174,ZM,"Zoom Communications, Inc. Class A",88.56,0.18,7526956,6.67,256.5,Packaged Software
+175,HUM,Humana Inc.,406.51,0.94,1607204,6.53,488.2,Managed Health Care
+176,NU,Nu Holdings Ltd. Class A,12.36,4.22,52433401,6.48,598.0,Regional Banks
+177,BSX,Boston Scientific Corporation,45.12,2.22,14157565,6.39,654.0,Medical Specialties
+178,CRCL,"Circle Internet Group, Inc. Class A",48.27,1.15,13196870,6.37,123.8,Packaged Software
+179,CDNS,"Cadence Design Systems, Inc.",294.89,-0.58,2153705,6.35,809.1,Packaged Software
+180,CSX,CSX Corporation,51.16,2.16,12318072,6.30,943.1,Railroads
+181,NTNX,"Nutanix, Inc. Class A",46.3,-15.19,13609270,6.30,126.3,Data Processing Services
+182,SO,Southern Company,95,0.95,6618298,6.29,1106.0,Electric Utilities
+183,CMCSA,Comcast Corporation Class A,25.73,1.38,23645022,6.08,913.7,Cable/Satellite TV
+184,UPS,"United Parcel Service, Inc. Class B",111.47,0.58,5391938,6.01,949.1,Air Freight/Couriers
+185,MCK,McKesson Corporation,1077.32,-0.07,557109,6.00,1243.8,Medical Distributors
+186,F,Ford Motor Company,12.17,1.84,49092017,5.97,486.0,Motor Vehicles
+187,FTNT,"Fortinet, Inc.",134.96,1.86,4409143,5.95,991.6,Information Technology Services
+188,BX,Blackstone Inc.,118.95,-0.34,4949681,5.89,1468.3,Investment Managers
+189,MRSH,"Marsh & McLennan Companies, Inc.",216.66,1.64,2711359,5.87,1030.2,Insurance Brokers/Services
+190,CRH,CRH public limited company,97.3,3.89,6005415,5.84,647.3,Construction Materials
+191,VST,Vistra Corp.,121.32,0.50,4716133,5.72,411.8,Electric Utilities
+192,DHR,Danaher Corporation,227.35,-0.76,2503376,5.69,1599.5,Medical Specialties
+193,HON,Honeywell International Inc.,225.1,0.12,2490760,5.61,714.4,Industrial Machinery
+194,RBLX,Roblox Corp. Class A,55.63,4.00,10031066,5.58,398.2,Packaged Software
+195,JCI,Johnson Controls International plc,136.5,-0.39,4085861,5.58,819.3,Industrial Machinery
+196,WAT,Waters Corporation,454.93,-1.57,1224890,5.57,447.1,Medical Specialties
+197,DUK,Duke Energy Corporation,131.9,0.72,4204149,5.55,1028.4,Electric Utilities
+198,O,Realty Income Corporation,60.25,1.18,9173870,5.53,573.0,Real Estate Investment Trusts
+199,OKTA,"Okta, Inc. Class A",201.77,1.84,2710385,5.47,352.7,Packaged Software
+200,PYPL,"PayPal Holdings, Inc.",57.81,2.92,9458972,5.47,480.2,Miscellaneous Commercial Services
