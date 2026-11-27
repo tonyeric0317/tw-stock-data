@@ -1,0 +1,9 @@
+美股交易日：2026-11-27（美東）
+資料來源：TradingView 篩選器（美股個股，不含 ETF、優先股、權證），成交額＝當日成交金額
+核對用：成交額前 5 名 NVDA 150.49（+0.80%）、MU 646.95（+7.60%）、ANT 91.88（+10.98%）、TSLA 400（+5.22%）、AMD 424.54（+4.56%）
+成交額第 30 名門檻：15.22 億美元
+
+=== 成交額前 30 名中漲幅 ≥ 8% 的個股 ===
+# 3 ANT Anthropic, PBC Class A  收 91.88  +10.98%  成交額 131.96 億美元  產業 Packaged Software
+# 6 SNDK Sandisk Corporation  收 85.36  +15.96%  成交額 83.25 億美元  產業 Computer Peripherals
+#28 COHR Coherent Corp.  收 223.79  +14.07%  成交額 15.97 億美元  產業 Semiconductors
