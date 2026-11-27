@@ -1,16 +1,6 @@
 [
 {
 "source": "鉅亨網",
-"title": "〈焦點股〉智邦投信連買力挺Q4走強 早盤反彈觸及漲停1350元",
-"url": "https://news.cnyes.com/news/id/6670035",
-"time": "2026-11-23T10:51:07+08:00",
-"codes": [
-"2345"
-],
-"first_seen": "2026-11-23T17:48+08:00"
-},
-{
-"source": "鉅亨網",
 "title": "禁空令救市多空激戰！台股早盤震盪逾1200點 本周緊盯3大經濟變數",
 "url": "https://news.cnyes.com/news/id/6670042",
 "time": "2026-11-23T11:02:32+08:00",
@@ -19691,6 +19681,13 @@
 "first_seen": "2026-11-27T09:45+08:00"
 },
 {
+"source": "工商時報",
+"title": "地溝油不再進肚子 陸千噸廢油如何飛上萬米高空？",
+"url": "https://www.ctee.com.tw/news/20261127700698-430801",
+"time": "2026-11-27T09:37:14+08:00",
+"first_seen": "2026-11-27T11:00+08:00"
+},
+{
 "source": "鉅亨網",
 "title": "聯嘉連5年拿TCSA台灣企業永續獎 更首度獲「性別平等領袖獎」",
 "url": "https://news.cnyes.com/news/id/6673516",
@@ -19706,6 +19703,13 @@
 "url": "https://money.udn.com/money/story/5599/9904996",
 "time": null,
 "first_seen": "2026-11-27T09:45+08:00"
+},
+{
+"source": "工商時報",
+"title": "AI、3D列印助攻！陸義烏仿真花「開」出近千億級商機",
+"url": "https://www.ctee.com.tw/news/20261127700705-430801",
+"time": "2026-11-27T09:47:28+08:00",
+"first_seen": "2026-11-27T11:00+08:00"
 },
 {
 "source": "工商時報",
@@ -19782,6 +19786,13 @@
 },
 {
 "source": "經濟日報",
+"title": "華南金股利有望創23年新高 股價卻跌逾4%！三大隱憂浮現",
+"url": "https://money.udn.com/money/story/5710/9905279",
+"time": "2026-11-27T10:20:00+08:00",
+"first_seen": "2026-11-27T11:00+08:00"
+},
+{
+"source": "經濟日報",
 "title": "台股選前39,000點拉鋸！川普曬半導體投資、台積電美廠活動倒數",
 "url": "https://money.udn.com/money/story/5607/9905192",
 "time": "2026-11-27T10:20:41+08:00",
@@ -19845,5 +19856,27 @@
 "url": "https://money.udn.com/money/story/5599/9905013",
 "time": null,
 "first_seen": "2026-11-27T10:45+08:00"
+},
+{
+"source": "鉅亨網",
+"title": "美AI晶片禁令升級！惠譽示警亞太AIDC融資趨緊 這類業者壓力最大",
+"url": "https://news.cnyes.com/news/id/6673563",
+"time": "2026-11-27T10:52:11+08:00",
+"codes": [],
+"first_seen": "2026-11-27T11:00+08:00"
+},
+{
+"source": "工商時報",
+"title": "星展調查 匯率波動牽動企業結算選擇 八成受訪台企用人民幣結算",
+"url": "https://www.ctee.com.tw/news/20261127700700-430302",
+"time": "2026-11-27T10:55:09+08:00",
+"first_seen": "2026-11-27T11:00+08:00"
+},
+{
+"source": "經濟日報",
+"title": "10:54 AI 幫你買東西 誰的廣告生意被搶走？ChatGPT 挑戰 Google、亞馬遜",
+"url": "https://money.udn.com/money/story/5599/9905059",
+"time": null,
+"first_seen": "2026-11-27T11:00+08:00"
 }
 ]
