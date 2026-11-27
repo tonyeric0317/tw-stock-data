@@ -1,44 +1,5 @@
 [
 {
-"source": "經濟日報",
-"title": "劉揚偉提「4個相信」看產業發展 相信黃仁勳眼光",
-"url": "https://money.udn.com/money/story/5612/9897016",
-"time": "2026-11-23T19:45:59+08:00",
-"first_seen": "2026-11-24T06:01+08:00"
-},
-{
-"source": "鉅亨網",
-"title": "中釉自結10月獲利年增翻倍 單月EPS為0.11元與前3Q相仿",
-"url": "https://news.cnyes.com/news/id/6670204",
-"time": "2026-11-23T19:46:06+08:00",
-"codes": [
-"1809"
-],
-"first_seen": "2026-11-24T06:01+08:00"
-},
-{
-"source": "鉅亨網",
-"title": "台股反彈778點外資仍賣289億元 砍0050及正2反手大敲這檔ETF逾20萬張",
-"url": "https://news.cnyes.com/news/id/6670205",
-"time": "2026-11-23T19:49:08+08:00",
-"codes": [],
-"first_seen": "2026-11-24T06:01+08:00"
-},
-{
-"source": "工商時報",
-"title": "國安基金進場點火 護盤喊話：買盤回流 投資信心回穩",
-"url": "https://www.ctee.com.tw/news/20261123701813-430503",
-"time": "2026-11-23T19:50:12+08:00",
-"first_seen": "2026-11-24T06:01+08:00"
-},
-{
-"source": "經濟日報",
-"title": "金融總會獎助學金邁入第12年 累計逾1.7萬名學生受惠",
-"url": "https://money.udn.com/money/story/5612/9897033",
-"time": "2026-11-23T19:55:16+08:00",
-"first_seen": "2026-11-24T06:01+08:00"
-},
-{
 "source": "工商時報",
 "title": "重挫後初評喊買 瑞銀送暖CCL三雄",
 "url": "https://www.ctee.com.tw/news/20261123701748-430201",
@@ -21010,6 +20971,13 @@
 },
 {
 "source": "工商時報",
+"title": "宏碁推出全新電競桌機！RTX 5060、DLSS 4加持打造新世代體驗",
+"url": "https://www.ctee.com.tw/news/20261127701623-430502",
+"time": "2026-11-27T18:43:31+08:00",
+"first_seen": "2026-11-27T20:00+08:00"
+},
+{
+"source": "工商時報",
 "title": "10月退票平穩走降 金額創近五月新低",
 "url": "https://www.ctee.com.tw/news/20261127701585-430301",
 "time": "2026-11-27T18:43:57+08:00",
@@ -21195,5 +21163,37 @@
 "url": "https://money.udn.com/money/story/5621/9906040",
 "time": null,
 "first_seen": "2026-11-27T19:45+08:00"
+},
+{
+"source": "經濟日報",
+"title": "主計總處：明年經濟成長估6.51% AI發展腳步不會停",
+"url": "https://money.udn.com/money/story/5612/9906457",
+"time": "2026-11-27T19:45:27+08:00",
+"first_seen": "2026-11-27T20:00+08:00"
+},
+{
+"source": "鉅亨網",
+"title": "鴻海大語言模型FoxBrain 臺灣主權AI評測奪全球第二",
+"url": "https://news.cnyes.com/news/id/6674029",
+"time": "2026-11-27T19:50:56+08:00",
+"codes": [],
+"first_seen": "2026-11-27T20:00+08:00"
+},
+{
+"source": "鉅亨網",
+"title": "眾達-KY自結10月EPS淨損0.46元 單月虧損3200萬元",
+"url": "https://news.cnyes.com/news/id/6674057",
+"time": "2026-11-27T19:55:38+08:00",
+"codes": [
+"4977"
+],
+"first_seen": "2026-11-27T20:00+08:00"
+},
+{
+"source": "經濟日報",
+"title": "19:53 科技股11月跌幅四年來最慘！專家說明為何黃仁勳復職也未能力挽狂瀾",
+"url": "https://money.udn.com/money/story/123398/9906243",
+"time": null,
+"first_seen": "2026-11-27T20:00+08:00"
 }
 ]
