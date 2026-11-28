@@ -1,27 +1,6 @@
 [
 {
 "source": "經濟日報",
-"title": "國發會：生醫納戰略產業規劃 2030年營業額拚兆元",
-"url": "https://money.udn.com/money/story/5612/9899568",
-"time": "2026-11-24T21:00:56+08:00",
-"first_seen": "2026-11-24T21:15+08:00"
-},
-{
-"source": "工商時報",
-"title": "SpaceX、特斯拉世紀合併案傳新進展 已委派5位董事負責合併談判",
-"url": "https://www.ctee.com.tw/news/20261124701942-430704",
-"time": "2026-11-24T21:02:23+08:00",
-"first_seen": "2026-11-24T21:15+08:00"
-},
-{
-"source": "經濟日報",
-"title": "21:05 黃仁勳交易退燒 台指期夜盤震盪逾1,500點、再破4萬點",
-"url": "https://money.udn.com/money/story/11112/9899571",
-"time": null,
-"first_seen": "2026-11-24T21:15+08:00"
-},
-{
-"source": "經濟日報",
 "title": "股市熱、民生冷！台中餐飲業旺季不旺 知名店家接連熄燈",
 "url": "https://money.udn.com/money/story/5612/9899601",
 "time": "2026-11-24T21:23:00+08:00",
@@ -18292,5 +18271,45 @@
 "url": "https://money.udn.com/money/story/12622/9908061",
 "time": null,
 "first_seen": "2026-11-28T20:45+08:00"
+},
+{
+"source": "工商時報",
+"title": "因沙拉油事件未復工 中聯油脂：先停止股票公開發行",
+"url": "https://www.ctee.com.tw/news/20261128700584-430503",
+"time": "2026-11-28T21:00:14+08:00",
+"first_seen": "2026-11-28T21:15+08:00"
+},
+{
+"source": "鉅亨網",
+"title": "泰山及福壽轉投資中聯油脂處大幅虧損、生產線仍停工 決撤銷公發",
+"url": "https://news.cnyes.com/news/id/6674575",
+"time": "2026-11-28T21:13:40+08:00",
+"codes": [
+"1225",
+"1219",
+"1218"
+],
+"first_seen": "2026-11-28T21:15+08:00"
+},
+{
+"source": "經濟日報",
+"title": "21:12 九合一選舉圓滿落幕 賴總統：民主永遠是贏家",
+"url": "https://money.udn.com/money/story/12622/9908105",
+"time": null,
+"first_seen": "2026-11-28T21:15+08:00"
+},
+{
+"source": "經濟日報",
+"title": "21:05 花蓮縣長選戰結果拉鋸 張峻差268票落敗宣布聲請驗票",
+"url": "https://money.udn.com/money/story/12622/9908053",
+"time": null,
+"first_seen": "2026-11-28T21:15+08:00"
+},
+{
+"source": "經濟日報",
+"title": "21:00 得票高過對手逾十萬票 賴瑞隆自行宣布當選",
+"url": "https://money.udn.com/money/story/12622/9908081",
+"time": null,
+"first_seen": "2026-11-28T21:15+08:00"
 }
 ]
