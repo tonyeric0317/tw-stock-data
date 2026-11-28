@@ -1,21 +1,6 @@
 [
 {
 "source": "經濟日報",
-"title": "漢來日月行館 新專案吸睛",
-"url": "https://money.udn.com/money/story/5612/9899735",
-"time": "2026-11-24T23:20:00+08:00",
-"first_seen": "2026-11-25T01:45+08:00"
-},
-{
-"source": "鉅亨網",
-"title": "台灣會被加稅嗎？彭博：美國新關稅最快周二公布",
-"url": "https://news.cnyes.com/news/id/6671111",
-"time": "2026-11-24T23:27:47+08:00",
-"codes": [],
-"first_seen": "2026-11-24T23:30+08:00"
-},
-{
-"source": "經濟日報",
 "title": "1124 權傾多空",
 "url": "https://money.udn.com/money/story/5739/9899883",
 "time": "2026-11-24T23:51:08+08:00",
@@ -18159,6 +18144,13 @@
 "first_seen": "2026-11-28T22:08+08:00"
 },
 {
+"source": "工商時報",
+"title": "公投逾6成支持核電 經部喊「尊重」 揭示3原則審慎作業",
+"url": "https://www.ctee.com.tw/news/20261128700659-430503",
+"time": "2026-11-28T22:10:40+08:00",
+"first_seen": "2026-11-28T23:30+08:00"
+},
+{
 "source": "經濟日報",
 "title": "今彩539第115288期 頭獎槓龜",
 "url": "https://money.udn.com/money/story/5612/9908256",
@@ -18178,5 +18170,23 @@
 "url": "https://money.udn.com/money/story/12622/9908292",
 "time": null,
 "first_seen": "2026-11-28T23:00+08:00"
+},
+{
+"source": "經濟日報",
+"title": "23:28 劉建國贏了雲林縣長！中選會公告得票數 與張嘉郡只差173票",
+"url": "https://money.udn.com/money/story/12622/9908361",
+"time": null,
+"first_seen": "2026-11-28T23:30+08:00"
+},
+{
+"source": "鉅亨網",
+"title": "Google第10代TPU傳採客製HBM5聯發科被點名為底層晶片設計候選",
+"url": "https://news.cnyes.com/news/id/6674598",
+"time": "2026-11-28T23:30:03+08:00",
+"codes": [
+"2454",
+"2330"
+],
+"first_seen": "2026-11-28T23:30+08:00"
 }
 ]
